@@ -20,5 +20,6 @@ Throughout the project, emphasis is placed on testing. Unit tests validate indiv
 If you're looking for similar projects or additional resources, consider exploring GitHub repositories using relevant keywords such as "java todo list spark handlebars." You'll likely discover existing projects that provide valuable insights and serve as excellent learning resources.
 
 Feel free to experiment, customize, and extend this project to suit your specific requirements. Happy coding!
+----
 
 
